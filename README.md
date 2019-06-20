@@ -2,7 +2,7 @@
 Este código fuente es parte del curso de "Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" en udemy.com.
 
 # Cómo usar
-Necesitarás [Node.js](https://nodejs.org) instalado en tu máquina. Simplemente descarga el instalador de [nodejs.org](https://nodejs.org) y sigue los pasos para su instalación.
+Necesitarás [Node.js](https://nodejs.org) instalado en tu máquina. Simplemente descarga el instalador en [nodejs.org](https://nodejs.org) y sigue los pasos para su instalación.
 
 Una vez que tengas Node.js instalado, Abre la terminal **navega a este directorio**. Ejecuta `npm install` para instalar todas las dependencias requeridas.
 
